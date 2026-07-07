@@ -4,7 +4,7 @@ An end-to-end machine learning project that predicts whether a loan application 
 
 ## Live Demo
 
-_Add your deployed Streamlit app link here once hosted on Streamlit Community Cloud._
+https://loan-approval-predictor-by-aditya.streamlit.app/
 
 ## Overview
 
